@@ -1,0 +1,8 @@
+- Log in attempts
+- Password changes
+- Root shell history
+- Registry changes
+- FTP file access attempts
+- SMB share login attempts
+- File permission modifications
+- 

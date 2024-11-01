@@ -1,0 +1,16 @@
+- Set up firewall rules to prevent traffic on all ports other than the services
+- Scan for any wonky file permissions or user permissions
+- Leave a backdoor so that we can always get into the machines
+- sysmon logging?
+	- graylog
+- kernel ipc blocking driver
+- "Like I think our first gameplan should be to change passwords of all user accounts, find hidden users and delete them, and look for backdoors"
+- Watch for keyloggers
+- look for amsibypass
+- Use a tool like regshot to scan for changes and log them
+- 
+## Our Master Script
+- checks `/etc/shadow` and `/etc/passwd` for any new users/permissions changes
+- Hash files like `/etc/sudoers` to ensure that no changes were made
+- Put script on a cron job so that we get automatic updates about the state of the machines
+- 
