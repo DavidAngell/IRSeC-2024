@@ -14,7 +14,7 @@
 | -------------- | ----------- | ----------- | ------------- | -------------------- | ---------------------------- |
 | Windows 10     | 10.17.1.1   | warhead     | WinRM         | 5985/5986            |                              |
 | Windows 10     | 10.17.1.2   | radar       | ICMP          | N/A                  | Filter for just ICMP traffic |
-| WinServer 2022 | 10.17.1.3   | big brother | AD/DNS        |                      |                              |
+| WinServer 2022 | 10.17.1.3   | big brother | AD/DNS        |                      | David                        |
 | Ubuntu 22.04   | 10.17.1.4   | propaganda  | Docker (HTTP) | 80?                  | Max                          |
 | Rocky 9        | 10.17.1.5   | wiretap     | IMAP/SMTP     | 143/993/25?/465?/587 | Max                          |
 | Debian 12      | 10.17.1.6   | vault       | FTP           | 21/22                | Max                          |

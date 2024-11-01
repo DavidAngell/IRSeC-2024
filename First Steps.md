@@ -5,8 +5,15 @@
 
 # Windows
 - [ ] Install Procmon
-- [ ] Startup Applications
+- [ ] Startup Applications in Task Manager
 - [ ] Sticky Keys
+- [ ] Check these keys
+```
+HKEY_CU\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+HKEY_CU\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce
+HKEY_LM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+HKEY_LM\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce
+```
 - [ ] [NetSH](https://www.ired.team/offensive-security/persistence/t1128-netsh-helper-dll)
 	- [ ] `Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\NetSh`
 - [ ] [Windows Logon Helper](https://attack.mitre.org/techniques/T1547/004/)
