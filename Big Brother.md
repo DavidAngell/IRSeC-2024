@@ -1,0 +1,5 @@
+- chom executable found in task manager
+- ![[Pasted image 20241102100512.png]]
+- ![[Pasted image 20241102101118.png]]
+- ![[Pasted image 20241102101400.png]]
+- ![[Pasted image 20241102104723.png]]
