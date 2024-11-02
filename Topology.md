@@ -1,20 +1,11 @@
 # CLOUD
 
-<<<<<<< HEAD
 | OS           | IP           | Hostname  | Service | Service Port    | Assigned To |
 | ------------ | ------------ | --------- | ------- | --------------- | ----------- |
 | FreeBSD      | 192.168.17.1 | spy       | MySQL   | 3306            | Noah        |
 | Ubuntu 22.04 | 192.168.17.2 | satelite  | Grafana | 3000?           | Bruno       |
 | Win. Server  | 192.168.17.3 | submarine | SMB     | 445 (maybe 139) | Luke        |
 | Windows 10   | 192.168.17.4 | diplomat  | IIS     | 80?             | David       |
-=======
-| OS           | IP           | Hostname  | Service | Service Port    | Notes      |
-| ------------ | ------------ | --------- | ------- | --------------- | ---------- |
-| FreeBSD      | 192.168.17.1 | spy       | MySQL   | 3306            | Noah       |
-| Ubuntu 22.04 | 192.168.17.2 | satelite  | Grafana | 3000?           | Not scored |
-| Win. Server  | 192.168.17.3 | submarine | SMB     | 445 (maybe 139) | Luke       |
-| Windows 10   | 192.168.17.4 | diplomat  | IIS     | 80?             | David      |
->>>>>>> a9dd404813464be153638c0925f56ad78662778d
 
 
 # LAN
